@@ -1,5 +1,1 @@
-<p align="center">
-  <h2>👋 Hello! </h2>
-</p>
-
-Glad to see you here! I'm Aditya Gupta, a **Software Engineer** with a strong passion for **Java** and **open-source**. I balance code with **music** 🎧 and find peace in a sip of **tea** 🍵 and **physical Exercise**🏋️.
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp2cnljMjR3c3NzYjNuYXpicjlkaHBsem41NG5jdmozbGFsNGw5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECUOh4rmVJCwHSwqhk/giphy.webp">
